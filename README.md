@@ -37,7 +37,7 @@ Sentiment analysis is a valuable application of natural language processing (NLP
 
 ## Deployment
 
-This project is deployed using Streamlit. You can access the deployed application [here](link_to_streamlit_app).
+This project is deployed using Streamlit. You can access the deployed application [here](https://sentiment-analysis-on-movie-reviews-word2vec.streamlit.app/).
 
 ## Contributing
 
