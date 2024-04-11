@@ -8,6 +8,8 @@ from utils import conv_lower,remove_special,remove_stopwords,join_back,document_
 st.set_page_config(
         page_title="Sentiment Analysis on movie reviews",
 )
+import nltk
+nltk.download('stopwords')
 
 def get_base64(bin_file):
     with open(bin_file, 'rb') as f:
